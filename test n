@@ -1,1 +1,4 @@
 print("Hello, GitHub!")
+git add .
+git commit -m "Dodaję pierwszy plik z Hello World"
+git push origin main
